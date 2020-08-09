@@ -6,4 +6,4 @@
 #end
 #puts "Code after if...end"
 
-time.now
+Time.now
